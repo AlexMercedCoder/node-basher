@@ -49,6 +49,8 @@ const templates = {
     gulp: "https://github.com/AlexMercedCoder/gulptemplate.git",
     grunt: "https://github.com/AlexMercedCoder/GruntTemplate.git",
     gruntreact: "https://github.com/AlexMercedCoder/GruntReactTemplate.git",
+    expressmongo: "https://github.com/AlexMercedCoder/expressmongotemplate.git",
+    expresspg: "https://github.com/AlexMercedCoder/expressrestpostgres.git",
   };
 
   module.exports = templates

@@ -2,6 +2,8 @@
 
 With node-basher you can fire up a variety of bash scripts remotely for several use cases :)
 
+**NOTE:** These scripts run bash commands in a child process, if you are on windows you should run these scripts from git bash or on windows subsystem for linux.
+
 ## spinup
 
 This is the bash version of my merced-spinup tool. It clones the same templates but will also install dependencies and remove the git remote from the clone saving you time.
@@ -16,9 +18,9 @@ If projectname not specified will clone to folder "myproject"
 
 List of templates and their names
 
-## AVAILABLE TEMPLATES
+### AVAILABLE TEMPLATES
 
-### Frontend
+#### Frontend
 
 - react
 - angular
@@ -48,7 +50,7 @@ List of templates and their names
 - reactrollup
 - gruntreact
 
-### Backend
+#### Backend
 
 - fastify
 - koa
@@ -60,8 +62,10 @@ List of templates and their names
 - merver
 - expresssocket
 - mongoexpressreact
+- expressmongo
+- expresspg
 
-### Other
+#### Other
 
 - ts
 - plainwebpack

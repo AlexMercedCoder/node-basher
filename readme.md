@@ -51,6 +51,7 @@ List of templates and their names
 - gruntreact
 - reactsassbootstrap
 - reactsassmaterialui
+- reactsasscontext
 
 #### Backend
 

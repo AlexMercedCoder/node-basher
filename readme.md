@@ -49,6 +49,8 @@ List of templates and their names
 - jqueryhtml (jquery with a script tag)
 - reactrollup
 - gruntreact
+- reactsassbootstrap
+- reactsassmaterialui
 
 #### Backend
 

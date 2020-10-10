@@ -57,6 +57,9 @@ const templates = {
     "https://github.com/AlexMercedCoder/ReactSassMaterialUI.git",
   reactsasscontext:
     "https://github.com/AlexMercedCoder/ReactSassContextRouter.git",
+  reactstyled:
+    "https://github.com/AlexMercedCoder/reactstyledcomponentscontext.git",
+  reactjss: "https://github.com/AlexMercedCoder/ReactJssRouterContext",
 };
 
 module.exports = templates;

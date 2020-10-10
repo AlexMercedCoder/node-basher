@@ -13,7 +13,7 @@ if (script === "spinup") {
   const name = $2 ? $2 : "myproject";
 
   spawn(
-    `git clone --depth 1 ${temp} ${name} && cd ${name} && git remote rm origin && echo "Installing Dependencies" && npm install`
+    `npx degit ${temp} ${name} && cd ${name} && echo "Installing Dependencies" && npm install`
   ).then(() =>
     console.log(
       chalk.bgCyan.black(

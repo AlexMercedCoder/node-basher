@@ -52,6 +52,8 @@ List of templates and their names
 - reactsassbootstrap
 - reactsassmaterialui
 - reactsasscontext
+- reactstyled
+- reactjss
 
 #### Backend
 

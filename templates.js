@@ -60,6 +60,7 @@ const templates = {
   reactstyled:
     "https://github.com/AlexMercedCoder/reactstyledcomponentscontext.git",
   reactjss: "https://github.com/AlexMercedCoder/ReactJssRouterContext",
+  reactloaded: "https://github.com/AlexMercedCoder/react-fully-loaded.git",
 };
 
 module.exports = templates;

@@ -2,7 +2,7 @@ const templates = {
   amponent: "https://github.com/AlexMercedCoder/amponent-parcel-template.git",
   basicelement: "https://github.com/AlexMercedCoder/BasicElementTemplate.git",
   funcomponent: "https://github.com/AlexMercedCoder/funComponent-template.git",
-  react:
+  reactparcel:
     "https://github.com/AlexMercedCoder/Alex-Merced-React-Parcel-Template.git",
   renderblocks: "https://github.com/AlexMercedCoder/renderblocks-template.git",
   mercedui: "https://github.com/AlexMercedCoder/mercedui-template-webpack.git",
@@ -62,6 +62,7 @@ const templates = {
   reactjss: "https://github.com/AlexMercedCoder/ReactJssRouterContext",
   reactloaded: "https://github.com/AlexMercedCoder/react-fully-loaded.git",
   express: "https://github.com/AlexMercedCoder/expressdotenv.git",
+  react: "git@github.com:AlexMercedCoder/reactbasicrouter.git",
 };
 
 module.exports = templates;

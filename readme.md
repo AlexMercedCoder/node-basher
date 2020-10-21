@@ -55,6 +55,7 @@ List of templates and their names
 - reactstyled
 - reactjss
 - reactloaded
+- reactparcel
 
 #### Backend
 

@@ -70,6 +70,7 @@ List of templates and their names
 - mongoexpressreact
 - expressmongo
 - expresspg
+- express
 
 #### Other
 

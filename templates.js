@@ -63,6 +63,17 @@ const templates = {
   reactloaded: "https://github.com/AlexMercedCoder/react-fully-loaded.git",
   express: "https://github.com/AlexMercedCoder/expressdotenv.git",
   react: "git@github.com:AlexMercedCoder/reactbasicrouter.git",
+  snowreact: "snowpackjs/snowpack/create-snowpack-app/app-template-react",
+  snowvue: "snowpackjs/snowpack/create-snowpack-app/app-template-vue",
+  snowreacts:
+    "snowpackjs/snowpack/create-snowpack-app/app-template-react-typescript",
+  snowsvelte: "snowpackjs/snowpack/create-snowpack-app/app-template-svelte/",
+  snowpack: "snowpackjs/snowpack/create-snowpack-app/app-template-blank",
+  snowts:
+    "snowpackjs/snowpack/create-snowpack-app/app-template-blank-typescript",
+  snowlit: "snowpackjs/snowpack/create-snowpack-app/app-template-lit-element",
+  snowlitts:
+    "snowpackjs/snowpack/create-snowpack-app/app-template-lit-element-typescript",
 };
 
 module.exports = templates;

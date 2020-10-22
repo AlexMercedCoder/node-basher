@@ -57,6 +57,16 @@ List of templates and their names
 - reactloaded
 - reactparcel
 
+### Snowpack Bundler Templates (From Snowpacks Official Templates)
+- snowpack
+- snowreact
+- snowreactts
+- snowsvelte
+- snowvue
+- snowts
+- snowlit
+- snowlitts
+
 #### Backend
 
 - fastify

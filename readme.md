@@ -56,8 +56,10 @@ List of templates and their names
 - reactjss
 - reactloaded
 - reactparcel
+- snowreactloaded
 
 ### Snowpack Bundler Templates (From Snowpacks Official Templates)
+
 - snowpack
 - snowreact
 - snowreactts

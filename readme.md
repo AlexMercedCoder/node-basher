@@ -78,6 +78,10 @@ List of templates and their names
 - apollo
 - expressreact
 - expressejs
+- expressmustache
+- expressmarko
+- expresspug
+- expressrest
 - expressrest
 - merver
 - expresssocket

@@ -97,5 +97,6 @@ List of templates and their names
 - plainrollup
 - commander
 - nextts (Next Static Site Generator with Typescript)
+- gatsbymarkdown (Static Site Generator Configured to Render Markdown)
 - gulp
 - grunt

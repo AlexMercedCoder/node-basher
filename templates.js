@@ -76,10 +76,14 @@ const templates = {
     "snowpackjs/snowpack/create-snowpack-app/app-template-lit-element-typescript",
   snowreactloaded: "https://github.com/AlexMercedCoder/showreactloaded.git",
   snowreacttask: "https://github.com/AlexMercedCoder/snowreacttask.git",
-  expresshandlebars: "https://github.com/AlexMercedCoder/expresshandlebarstemplate.git",
-  expressmustache: "https://github.com/AlexMercedCoder/expressmustachetemplate.git",
+  expresshandlebars:
+    "https://github.com/AlexMercedCoder/expresshandlebarstemplate.git",
+  expressmustache:
+    "https://github.com/AlexMercedCoder/expressmustachetemplate.git",
   expressmarko: "https://github.com/AlexMercedCoder/expressmarkotemplate.git",
   expresspug: "https://github.com/AlexMercedCoder/expresspugtemplate.git",
+  gatsbymarkdown:
+    "https://github.com/AlexMercedCoder/GatsbyMarkdownTemplate.git",
 };
 
 module.exports = templates;

@@ -98,5 +98,6 @@ List of templates and their names
 - commander
 - nextts (Next Static Site Generator with Typescript)
 - gatsbymarkdown (Static Site Generator Configured to Render Markdown)
+- nextmarkdown (Static Site Generator Configured to render Markdown)
 - gulp
 - grunt

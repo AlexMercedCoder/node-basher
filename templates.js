@@ -89,6 +89,9 @@ const templates = {
     "https://github.com/AlexMercedCoder/scullymarkdowntemplate.git",
   sappermarkdown:
     "https://github.com/AlexMercedCoder/Sappermarkdowntemplate.git",
+  gridsomemarkdown:
+    "https://github.com/AlexMercedCoder/gridsomemarkdowntemplate.git",
+  nuxtmarkdown: "https://github.com/AlexMercedCoder/nuxtmarkdowntemplate.git",
 };
 
 module.exports = templates;

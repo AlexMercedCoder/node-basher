@@ -95,6 +95,8 @@ List of templates and their names
 - nextmarkdown (react)
 - sappermarkdown (svelte)
 - scullymarkdown (angular)
+- gridsomemarkdown (Vue)
+- nuxtmarkdown (Vue)
 
 ### Other
 

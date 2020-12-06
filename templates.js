@@ -84,7 +84,11 @@ const templates = {
   expresspug: "https://github.com/AlexMercedCoder/expresspugtemplate.git",
   gatsbymarkdown:
     "https://github.com/AlexMercedCoder/GatsbyMarkdownTemplate.git",
-  nextmarkdown: "git@github.com:AlexMercedCoder/NextJSMarkdownTemplate.git"
+  nextmarkdown: "https://github.com/AlexMercedCoder/NextJSMarkdownTemplate.git",
+  scullymarkdown:
+    "https://github.com/AlexMercedCoder/scullymarkdowntemplate.git",
+  sappermarkdown:
+    "https://github.com/AlexMercedCoder/Sappermarkdowntemplate.git",
 };
 
 module.exports = templates;

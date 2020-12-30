@@ -97,6 +97,7 @@ List of templates and their names
 - scullymarkdown (angular)
 - gridsomemarkdown (Vue)
 - nuxtmarkdown (Vue)
+- gatsbyportfolio (Gatsby template for generating dev portfolios)
 
 ### Other
 

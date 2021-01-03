@@ -26,6 +26,7 @@ List of templates and their names
 - angular
 - vue
 - svelte
+- ezcomponent
 - amponent
 - mercedui
 - renderblocks

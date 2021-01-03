@@ -92,7 +92,8 @@ const templates = {
   gridsomemarkdown:
     "https://github.com/AlexMercedCoder/gridsomemarkdowntemplate.git",
   nuxtmarkdown: "https://github.com/AlexMercedCoder/nuxtmarkdowntemplate.git",
-  gatsbyportfolio: "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git"
+  gatsbyportfolio: "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git",
+  ezcomponent: "https://github.com/AlexMercedCoder/ezcomponent-template.git"
 };
 
 module.exports = templates;

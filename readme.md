@@ -41,6 +41,7 @@ List of templates and their names
 - reactredux
 - reactreducer
 - jquerywebpack
+- jqueryts
 - basichtml (basic html/css/js setup)
 - reactts
 - kofu

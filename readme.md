@@ -91,9 +91,12 @@ List of templates and their names
 - expressmongo
 - expresspg
 - express
-- expressreactmono (express/react monorepo
+- expressreactmono (express/react monorepo)
+- netlifyfunc
+- vercelfunc
 
 ### Markdown Blog Templates
+
 - gatsbymarkdown (react)
 - nextmarkdown (react)
 - sappermarkdown (svelte)

@@ -95,8 +95,14 @@ const templates = {
   gatsbyportfolio:
     "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git",
   ezcomponent: "https://github.com/AlexMercedCoder/ezcomponent-template.git",
-  jqueryts: "https://github.com/AlexMercedCoder/jQueryTypescriptTemplate.git#main",
-  expressreactmono: "https://github.com/AlexMercedCoder/ExpressReactMonorepoTemplate.git#main"
+  jqueryts:
+    "https://github.com/AlexMercedCoder/jQueryTypescriptTemplate.git#main",
+  expressreactmono:
+    "https://github.com/AlexMercedCoder/ExpressReactMonorepoTemplate.git#main",
+  vercelfunc:
+    "https://github.com/AlexMercedCoder/VercelFunctionsTemplate.git#main",
+  netlifyfunc:
+    "https://github.com/AlexMercedCoder/NetlifyFunctionsTemplate.git#main",
 };
 
 module.exports = templates;
